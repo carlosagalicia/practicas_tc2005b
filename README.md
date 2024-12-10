@@ -1,52 +1,52 @@
 # practicas_tc2005b
 
-Este es el repositorio individual de TC200B, donde se recopilan las prácticas y tareas que realicé durante el curso.
+This is the individual repository for my Software Construction (TC200B) course, where the practices and tasks I completed during the course are collected.
 
-## Temas Principales de Aprendizaje
+## Key Learning Areas
 
-1. **Desarrollo Frontend**:
-   - Creación de interfaces de usuario con **HTML5**, **CSS3** y frameworks de diseño como:
-     - **Materialize**: Uso de componentes modernos y diseño responsivo.
-     - **Bulma**: Implementación de diseños minimalistas y basados en Flexbox.
+1. **Frontend Development**:
+   - Creation of user interfaces using **HTML5**, **CSS3**, and design frameworks such as:
+     - **Materialize**: Use of modern components and responsive design.
+     - **Bulma**: Implementation of minimalist, Flexbox-based designs.
 
-2. **Programación en JavaScript**:
-   - Uso de **JavaScript** para agregar funcionalidad a las aplicaciones web.
-   - Implementación de eventos y manejo del DOM.
-   - Introducción a **AJAX** para realizar peticiones asíncronas y consumir APIs.
+2. **JavaScript Programming**:
+   - Use of **JavaScript** to add functionality to web applications.
+   - Implementation of events and DOM manipulation.
+   - Introduction to **AJAX** for making asynchronous requests and consuming APIs.
 
-3. **Desarrollo Backend**:
-   - Creación de servidores con **Node.js**.
-   - Uso de frameworks como **Express.js** para manejar rutas y controladores.
-   - Integración con bases de datos para la persistencia de datos.
+3. **Backend Development**:
+   - Creation of servers with **Node.js**.
+   - Use of frameworks like **Express.js** to handle routes and controllers.
+   - Integration with databases for data persistence.
 
-4. **Bases de Datos**:
-   - Diseño de bases de datos relacionales y consultas en SQL.
-   - Uso de subconsultas, funciones agregadas y procedimientos almacenados.
-   - Normalización y optimización de bases de datos.
+4. **Databases**:
+   - Design of relational databases and SQL queries.
+   - Use of subqueries, aggregate functions, and stored procedures.
+   - Normalization and optimization of databases.
 
-5. **Arquitectura y Diseño de Software**:
-   - Creación de diagramas de clases, modelos entidad-relación (MER) y diagramas de despliegue.
-   - Análisis de casos de estudio para resolver problemas del mundo real.
+5. **Software Architecture and Design**:
+   - Creation of class diagrams, entity-relationship models (ERD), and deployment diagrams.
+   - Analysis of case studies to solve real-world problems.
 
-6. **Buenas Prácticas de Desarrollo**:
-   - Uso de controladores, modelos y rutas para una arquitectura bien estructurada.
-   - Aplicación de principios de diseño y usabilidad en las interfaces.
-   - Evaluación heurística para mejorar la experiencia del usuario.
+6. **Development Best Practices**:
+   - Use of controllers, models, and routes for a well-structured architecture.
+   - Application of design principles and usability in interfaces.
+   - Heuristic evaluation to improve user experience.
 
-## Lenguajes y Herramientas Utilizadas
+## Languages and Tools Used
 
-- **HTML5** y **CSS3**: Para la estructura y estilos de las aplicaciones web.
-- **JavaScript**: Lenguaje principal para funcionalidades dinámicas.
-- **Node.js** y **Express.js**: Desarrollo de aplicaciones backend.
-- **SQL**: Consultas y manipulación de bases de datos.
-- **Frameworks CSS**: Materialize y Bulma.
-- **AJAX**: Consumo de APIs de manera asíncrona.
-- **Herramientas de Diseño**: Diagrams.net para diagramas y modelado.
+- **HTML5** and **CSS3**: For the structure and styling of web applications.
+- **JavaScript**: Main language for dynamic functionalities.
+- **Node.js** and **Express.js**: For backend application development.
+- **SQL**: For database queries and manipulation.
+- **CSS Frameworks**: Materialize and Bulma.
+- **AJAX**: For asynchronous API consumption.
+- **Design Tools**: Diagrams.net for diagrams and modeling.
 
-## Organización del Repositorio
+## Repository Organization
 
-El repositorio está organizado en carpetas que representan los diferentes laboratorios y tareas:
-- `laboratorio_X`: Archivos de código y configuraciones específicas para cada práctica.
-- `tareas`: Documentos, diagramas y ejercicios adicionales realizados durante el curso.
+The repository is organized into folders representing different labs and tasks:
+- `laboratorio_X`: Code and specific configurations for each practice.
+- `tareas`: Documents, diagrams, and additional exercises completed during the course.
 
-Este repositorio refleja el aprendizaje acumulado en el curso y sirve como referencia para futuras implementaciones.
+This repository reflects the accumulated learning from the course and serves as a reference for future implementations.
